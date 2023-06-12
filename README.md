@@ -4,11 +4,11 @@ Detect and escape embedding.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/plsankar/yeeted/npm-publish.yml)
-![npm](https://img.shields.io/npm/dt/yeeted)
-![GitHub issues](https://img.shields.io/github/issues/plsankar/yeeted)
-![npm bundle size](https://img.shields.io/bundlephobia/min/yeeted)
+[![npm](https://img.shields.io/npm/dt/yeeted)](https://npmjs.com/package/yeeted)
+[![GitHub issues](https://img.shields.io/github/issues/plsankar/yeeted)](https://github.com/plsankar/yeeted/issues)
+[![npm bundle size](https://img.shields.io/bundlephobia/min/yeeted)](https://npmjs.com/package/yeeted)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/plsankar/yeeted)
-![GitHub all releases](https://img.shields.io/github/downloads/plsankar/yeeted/total)
+[![GitHub all releases](https://img.shields.io/github/downloads/plsankar/yeeted/total)](https://github.com/plsankar/yeeted/releases)
 
 ## How does it work?
 
