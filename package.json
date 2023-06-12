@@ -1,5 +1,8 @@
 {
     "name": "yeeted",
+    "description": "Detect and escape embedding",
+    "private": false,
+    "version": "1.0.0",
     "files": [
         "dist"
     ],
@@ -14,8 +17,10 @@
             "require": "./dist/yeeted.umd.js"
         }
     },
-    "private": true,
-    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/plsankar/yeeted.git"
+    },
     "scripts": {
         "dev": "vite",
         "build": "tsc && vite build",
@@ -27,5 +32,17 @@
     },
     "dependencies": {
         "vite-plugin-dts": "^2.3.0"
-    }
+    },
+    "keywords": [
+        "escape",
+        "iframe",
+        "embed",
+        "html"
+    ],
+    "author": "plsankar",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/plsankar/yeeted/issues"
+    },
+    "homepage": "https://github.com/plsankar/yeeted#readme"
 }
