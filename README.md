@@ -26,6 +26,12 @@ Install `yeeted` with npm
   npm install yeeted
 ```
 
+or, Add via CDN Powered by [unpkg.com](https://www.unpkg.com/)
+
+```html
+<script src="https://www.unpkg.com/yeeted"></script>
+```
+
 ## Usage
 
 ```javascript
